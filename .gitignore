@@ -1,0 +1,49 @@
+# ==============================================================================
+# SECRETS & CREDENTIALS - CRITICAL: DO NOT COMMIT REAL TOKENS OR PASSWORDS
+# ==============================================================================
+secrets.h
+*/secrets.h
+*.env
+.env
+.env.*
+!.env.example
+!secrets.example.h
+!*/secrets.example.h
+
+# ==============================================================================
+# LARGE RAW WORKING DIRECTORIES & EXTERNAL LIBRARIES
+# ==============================================================================
+Arduino_Libraries/
+ESP32_Firmware_Binaries/
+Ram - ESP32S3/
+
+# Binaries, archives & compiled outputs
+*.zip
+*.bin
+*.hex
+*.elf
+*.tar.gz
+*.7z
+
+# ==============================================================================
+# Python
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# ==============================================================================
+# IDEs & System files
+# ==============================================================================
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,21 @@
+ROBU ORDER SPECIFICATIONS (Matched to original receipt #3729317)
+
+=== BATCH 2 (Core Head & Torso - 5 Files) ===
+Folder: Desktop\Batch-2-Staged\
+01_head_front_artistic_fused_thickened.stl -> White PLA, 15% Infill
+02_head_rear_artistic_fused_thickened.stl  -> Pink PLA, 15% Infill
+04_torso_front_structural_thickened.stl    -> Black PLA, 90% Infill
+05_torso_rear_structural_thickened.stl     -> Black PLA, 90% Infill
+10_skirt_base_structural_thickened.stl     -> Black PLA, 90% Infill
+
+=== BATCH 3 (Maid Dress Details, Sleeves & Apron - 7 Files) ===
+Folder: Desktop\Batch-3-Staged\
+03_maid_collar_ruffles_thickened.stl       -> Black PLA, 90% Infill
+06_left_arm_maid_sleeve_thickened.stl      -> Black PLA, 90% Infill
+07_right_arm_maid_sleeve_thickened.stl     -> Black PLA, 90% Infill
+08_maid_apron_front_thickened.stl          -> White PLA, 30% Infill
+09a_skirt_hem_ruffles_upper_thickened.stl  -> Black PLA, 30% Infill (Upper Hem)
+09b_skirt_lower_ruffles_thickened.stl      -> Black PLA, 30% Infill (Lower Ruffle)
+11_skirt_bottom_led_lid.stl                -> Black PLA, 90% Infill
+
+(Note: 09a and 09b are cleanly split so both pieces drop completely flat onto the print bed in Robu with 0 floating parts).
